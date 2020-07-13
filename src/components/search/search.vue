@@ -1,18 +1,13 @@
 <template>
   <div>
-      search组件
+    search组件
   </div>
 </template>
 
 <script>
 export default {
-  name: "search.vue",
-  
+  name: "search.vue"
 };
-
 </script>
 
-<style  scoped lang="stylus">
-
-
-</style>
+<style  scoped lang="stylus"></style>
